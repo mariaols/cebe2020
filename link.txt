@@ -1,0 +1,5 @@
+https://www.careerbuilder.com/jobs?posted=30&pay=&cat1=&radius=&emp=&cb_apply=true&keywords=admin&location=&cb_workhome=false
+https://www.careerbuilder.com/jobs?posted=30&pay=&cat1=&radius=&emp=&cb_apply=true&keywords=Sale&location=&cb_workhome=false
+https://www.careerbuilder.com/jobs?posted=30&pay=&cat1=&radius=&emp=&cb_apply=true&keywords=transport&location=&cb_workhome=false
+https://www.careerbuilder.com/jobs?posted=30&pay=&cat1=&radius=&emp=&cb_apply=true&keywords=nurse&location=&cb_workhome=false
+https://www.careerbuilder.com/jobs?posted=30&pay=&cat1=&radius=&emp=&cb_apply=true&keywords=media&location=&cb_workhome=false

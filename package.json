@@ -1,0 +1,16 @@
+{
+  "name": "resume-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nightmare": "^3.0.2",
+    "random-useragent": "^0.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
